@@ -110,11 +110,8 @@
 }
 
 .owl-carousel.owl-rtl .owl-item {
-    float: right;
-    
+    float: right
 }
-
-
 
 .owl-carousel .animated {
     animation-duration: 1s;

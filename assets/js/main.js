@@ -252,7 +252,7 @@
         $('.doctors-carousel').owlCarousel({
             loop: true,
             nav: true,
-            margin:40,
+            margin:30,
             dots: false,
             autoplay: true,
             items: 1,

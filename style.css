@@ -387,9 +387,7 @@ input {
 }
 
 .default-padding {
-  /* padding-top: 120px; */
-
-  padding-top: 120px; 
+  padding-top: 120px;
   padding-bottom: 120px;
 }
 
@@ -6329,9 +6327,4 @@ footer.demo .copyright {
   background: #ffffff none repeat scroll 0 0;
   padding: 10px;
   box-shadow: -1px 3px 10px 0 rgba(0, 0, 0, 0.06);
-}
-
-
-.doctor-schedule{
-  width: 300px !important;
 }
